@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hackerman/static/css/main.93766cb5.css",
-    "main.js": "/Hackerman/static/js/main.ba2cdb2d.js",
-    "static/js/787.2cd2c866.chunk.js": "/Hackerman/static/js/787.2cd2c866.chunk.js",
-    "index.html": "/Hackerman/index.html",
-    "main.93766cb5.css.map": "/Hackerman/static/css/main.93766cb5.css.map",
-    "main.ba2cdb2d.js.map": "/Hackerman/static/js/main.ba2cdb2d.js.map",
-    "787.2cd2c866.chunk.js.map": "/Hackerman/static/js/787.2cd2c866.chunk.js.map"
+    "main.css": "/new-year-gift/static/css/main.93766cb5.css",
+    "main.js": "/new-year-gift/static/js/main.cf10ced6.js",
+    "static/js/787.2cd2c866.chunk.js": "/new-year-gift/static/js/787.2cd2c866.chunk.js",
+    "index.html": "/new-year-gift/index.html",
+    "main.93766cb5.css.map": "/new-year-gift/static/css/main.93766cb5.css.map",
+    "main.cf10ced6.js.map": "/new-year-gift/static/js/main.cf10ced6.js.map",
+    "787.2cd2c866.chunk.js.map": "/new-year-gift/static/js/787.2cd2c866.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93766cb5.css",
-    "static/js/main.ba2cdb2d.js"
+    "static/js/main.cf10ced6.js"
   ]
 }
