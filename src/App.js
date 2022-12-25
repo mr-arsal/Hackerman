@@ -24,12 +24,16 @@ function App() {
     setTimeout(() => {
       document.getElementById('no7').innerHTML = 'Connecting to Facebook...'
     }, 14000);
+    setTimeout(() => {
+      document.getElementById('newline').innerHTML = 'Successfully unlocked the Messenger...'
+    }, 15000);
     setInterval(() => {
       document.getElementById('no8').innerHTML = 'ACCOUNT HACKED!!!'
       setInterval(() => {
         document.querySelector("#no8").classList.toggle('color')
       }, 200);
     }, 16000);
+
   }
   hackerman()
   return (
@@ -48,6 +52,8 @@ function App() {
         <div id="no6" class="pt-3">
         </div>
         <div id="no7" class="pt-3">
+        </div>
+        <div id="newline" className="pt-3">
         </div>
         <div id="no8" class="pt-4 blink">
         </div>
