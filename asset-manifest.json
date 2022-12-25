@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hackerman/static/css/main.e3c27370.css",
-    "main.js": "/Hackerman/static/js/main.4ab5179c.js",
+    "main.css": "/Hackerman/static/css/main.93766cb5.css",
+    "main.js": "/Hackerman/static/js/main.ba2cdb2d.js",
     "static/js/787.2cd2c866.chunk.js": "/Hackerman/static/js/787.2cd2c866.chunk.js",
     "index.html": "/Hackerman/index.html",
-    "main.e3c27370.css.map": "/Hackerman/static/css/main.e3c27370.css.map",
-    "main.4ab5179c.js.map": "/Hackerman/static/js/main.4ab5179c.js.map",
+    "main.93766cb5.css.map": "/Hackerman/static/css/main.93766cb5.css.map",
+    "main.ba2cdb2d.js.map": "/Hackerman/static/js/main.ba2cdb2d.js.map",
     "787.2cd2c866.chunk.js.map": "/Hackerman/static/js/787.2cd2c866.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3c27370.css",
-    "static/js/main.4ab5179c.js"
+    "static/css/main.93766cb5.css",
+    "static/js/main.ba2cdb2d.js"
   ]
 }
